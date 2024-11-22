@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_name">MediThen Ai (Improving notification status)</string>
+    <string name="service_body">To hide this notification -> Open app -> Settings tab -> Foreground notification </string>
+</resources>

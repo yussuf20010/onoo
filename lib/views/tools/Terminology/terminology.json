@@ -1,0 +1,170 @@
+[
+  {
+    "Arabic Medical": "daughter",
+    "Arabic Common": "ابنة",
+    "English Common": "daughter",
+    "English Medical": "daughter"
+  },
+  {
+    "Arabic Medical": "infarction",
+    "Arabic Common": "أزمة قلبية",
+    "English Common": "heart attack",
+    "English Medical": "myocardial infarction"
+  },
+  {
+    "Arabic Medical": "elective",
+    "Arabic Common": "اختياري",
+    "English Common": "urgent-non",
+    "English Medical": "غير سريع"
+  },
+  {
+    "Arabic Medical": "brain (concussion)",
+    "Arabic Common": "ارتجاج(المخ)",
+    "English Common": "brain (concussion)",
+    "English Medical": "ارتجاج(المخ)"
+  },
+  {
+    "Arabic Medical": "Reflux",
+    "Arabic Common": "حرقة في المعدة",
+    "English Common": "heartburn",
+    "English Medical": "احتشاء عضلة القلب"
+  },
+  {
+    "Arabic Medical": "hypertension",
+    "Arabic Common": "ارتفاع الضغط",
+    "English Common": "blood high",
+    "English Medical": "ارتفاع الضغط"
+  },
+  {
+    "Arabic Medical": "hyperglycaemia",
+    "Arabic Common": "ارتفاع سكر الدم",
+    "English Common": "sugar blood high",
+    "English Medical": "ارتفاع سكر الدم"
+  },
+  {
+    "Arabic Medical": "pyrexia",
+    "Arabic Common": "ارتفاع في الحرارة",
+    "English Common": "fever",
+    "English Medical": "حرارة"
+  },
+  {
+    "Arabic Medical": "call (for/name)",
+    "Arabic Common": "استدعاء ( بالاسم )",
+    "English Common": "call (for/name)",
+    "English Medical": "استدعاء ( بالاسم )"
+  },
+  {
+    "Arabic Medical": "bell-call",
+    "Arabic Common": "استدعاء ( بالجرس )",
+    "English Common": "bell-call",
+    "English Medical": "استدعاء ( بالجرس )"
+  },
+  {
+    "Arabic Medical": "recuperation",
+    "Arabic Common": "استعادة",
+    "English Common": "recuperation",
+    "English Medical": "استعادة"
+  },
+  {
+    "Arabic Medical": "name last",
+    "Arabic Common": "اسم العائلة",
+    "English Common": "name last",
+    "English Medical": "اسم العائلة"
+  },
+  {
+    "Arabic Medical": "depression",
+    "Arabic Common": "اآتئاب",
+    "English Common": "depression",
+    "English Medical": "اآتئاب"
+  },
+  {
+    "Arabic Medical": "insomnia",
+    "Arabic Common": "عدم النوم",
+    "English Common": "sleeplessness",
+    "English Medical": "الأرق"
+  },
+  {
+    "Arabic Medical": "intestines",
+    "Arabic Common": "الأمعاء",
+    "English Common": "intestines",
+    "English Medical": "الأمعاء"
+  },
+  {
+    "Arabic Medical": "colon",
+    "Arabic Common": "القولون",
+    "English Common": "colon",
+    "English Medical": "الأمعاء الغليظة"
+  },
+  {
+    "Arabic Medical": "thumb",
+    "Arabic Common": "الإبهام",
+    "English Common": "thumb",
+    "English Medical": "الإبهام"
+  },
+  {
+    "Arabic Medical": "buttocks",
+    "Arabic Common": "المؤخرة",
+    "English Common": "buttocks",
+    "English Medical": "الإيليا"
+  },
+  {
+    "Arabic Medical": "micturition",
+    "Arabic Common": "التبول",
+    "English Common": "urination",
+    "English Medical": "التبول"
+  },
+  {
+    "Arabic Medical": "anesthesia",
+    "Arabic Common": "البنج",
+    "English Common": "anesthesia",
+    "English Medical": "التخدير"
+  },
+  {
+    "Arabic Medical": "collar bone",
+    "Arabic Common": "الترقوة",
+    "English Common": "clavicle",
+    "English Medical": "العظم الترقوة"
+  },
+  {
+    "Arabic Medical": "cystic fibrosis",
+    "Arabic Common": "التليف الحوصلي",
+    "English Common": "cystic fibrosis",
+    "English Medical": "التليف الحوصلي"
+  },
+  {
+    "Arabic Medical": "breathing",
+    "Arabic Common": "تنفس",
+    "English Common": "ventilation",
+    "English Medical": "تنفس الإصطناعي"
+  },
+  {
+    "Arabic Medical": "infection",
+    "Arabic Common": "التهاب",
+    "English Common": "infection",
+    "English Medical": "التهاب"
+  },
+  {
+    "Arabic Medical": "ear infection",
+    "Arabic Common": "التهاب الأذن",
+    "English Common": "otitis",
+    "English Medical": "التهاب الأذن"
+  },
+  {
+    "Arabic Medical": "Crohn's disease",
+    "Arabic Common": "داء آروهن",
+    "English Common": "ileitis",
+    "English Medical": "التهاب الأمعاء الدقيقة"
+  },
+  {
+    "Arabic Medical": "prostate inflammation",
+    "Arabic Common": "التهاب البروستات",
+    "English Common": "prostatitis",
+    "English Medical": "التهاب البروستات"
+  },
+  {
+    "Arabic Medical": "inflammation of the pancreas",
+    "Arabic Common": "التهاب البنكرياس",
+    "English Common": "pancreatitis",
+    "English Medical": "التهاب البنكرياس"
+  }
+]
